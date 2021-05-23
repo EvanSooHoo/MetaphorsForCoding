@@ -1,8 +1,16 @@
-# Chapter2.md
+# localhost
 
 Their plane was about to crash.  Jerry said the impact would likely be in approximately eight minutes and 53.719 seconds.
 
-[Insert literally any dialogue here]
+"I don't know," said Roger, "that story you just told sounds incredibly made-up."
+
+"Which part?"
+
+"Most of it."
+
+"What I'm trying to say," said Steven, "is that job interviewers are the scum of the earth.  When in the field am I ever going to have to write merge sort on a whiteboard from memory?"
+
+"Do you think maybe we can discuss this later?"
 
 “This plane will crash in eight minutes!” shouted Jerry, from the other side.
 
@@ -11,12 +19,14 @@ Their plane was about to crash.  Jerry said the impact would likely be in approx
 “Maybe we should deal with the crash?”
 
 “Maybe.”
+
 Their altitude was dangerously low.  The control console was flashing so many warnings that they could not scroll up and see all of them; they had no choice but to modify the debugging level to ERROR.
 
 “This aircraft is about to pass through the Amazon cloud.  Looks like there’s a lot of activity.  Brace yourself.”
 
 The plane rapidly descended into gray lightning and fog.  In those flashes, Steven caught a glimpse of operating systems that never were and never would be.
-“Good.  We’re through the Amazon cloud.  On the count of three, I need you to activate the load balancer.  1…2…3!”
+“Good.  We’re through the Amazon cloud.  On the count of three, I need you to activate the load balancer.
+1…2…3!”
 
 “Deploying!  It’s not working, though.  Aircraft is too heavy…can we drop the payload?”
 
