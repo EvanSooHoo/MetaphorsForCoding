@@ -1,5 +1,7 @@
 # Metaphors For Coding
 
+If you are reading this and there is not a table of contents on the left, then I have failed
+
 Once upon a time there was a land called Fignatia, and Fignatia was involved in a very violent civil war.  In the west was a splinter nation called Woke Nation, which had rebelled against its tyrannical leaders and believed in common causes such as opposing fascism, addressing climate change, and helping the poor.  To the east were the evil forces of Freedom Nation, a name they insisted on calling themselves until Woke Nation was reclaimed.  Freedom Nation, a highly backwards but militarily superior country, valued meaningless traditional relics like the nuclear family, protecting the Bill of Rights, and being allowed to eat a damn burger without being lectured about climate change.  Freedom Nation was beyond reason and had to be stopped.
 
 Currently, the two were in a deadlock.  Freedom Nation had invented a powerful six zillion dollar aircraft (which they funded by simply printing money) called the “Everything Plane,” which served as an air superiority fighter, a stealth bomber, a reconnaissance drone, a transport vehicle, a pizza delivery service and, when the weather permitted it, a helicopter.  Fortunately, Woke Nation had used its vastly superior cyber technology to steal their plans and invent their own plane.  This aircraft was called the “J-Everyting Plane,” and it was exactly the same as the Everything Plane in every possible way except that it had a J in front of it.
