@@ -1,6 +1,8 @@
 # Metaphors For Coding
 
-If you are reading this and there is not a table of contents on the left, then I have failed
+https://evansoohoo.github.io/MetaphorsForCoding/
+
+https://hackernoon.com/how-to-publish-a-book-with-gitbook-cli-and-github-pages-in-7-minutes-i61w3wjn
 
 Once upon a time there was a land called Fignatia, and Fignatia was involved in a very violent civil war.  In the west was a splinter nation called Woke Nation, which had rebelled against its tyrannical leaders and believed in common causes such as opposing fascism, addressing climate change, and helping the poor.  To the east were the evil forces of Freedom Nation, a name they insisted on calling themselves until Woke Nation was reclaimed.  Freedom Nation, a highly backwards but militarily superior country, valued meaningless traditional relics like the nuclear family, protecting the Bill of Rights, and being allowed to eat a damn burger without being lectured about climate change.  Freedom Nation was beyond reason and had to be stopped.
 
